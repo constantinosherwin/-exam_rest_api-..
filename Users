@@ -1,0 +1,17 @@
+{
+  "message": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@example.com",
+      "password": "a66abb5684c45962d887564f08346e8d"
+    },
+    {
+      "id": 2,
+      "name": "user",
+      "email": "user@example.com",
+      "password": "4da49c16db42ca04538d629ef0533fe8"
+    }
+  ]
+}
